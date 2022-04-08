@@ -1,0 +1,18 @@
+
+.bottomLine{
+    border-bottom: 2px solid #EAF2EB;
+   
+  
+
+}
+
+.loginBtn{
+    border:none;
+   padding: 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #50A35D;
+    color:white;
+    border-radius: 10px;
+}

@@ -1,0 +1,10 @@
+
+main{
+    background-color: green;
+}
+.sideInput{
+   
+    padding: 15px;
+    height: 500px !important;
+    background-color: gray;
+}

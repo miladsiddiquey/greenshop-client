@@ -1,0 +1,13 @@
+
+.smallBannerRow{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+
+.smallBanner{
+    background-image: url(../images/smallbanner.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}

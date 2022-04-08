@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Barberton Daisy",
+        "price": 254.00,
+        "shortDes": " Gerbera jamesonii is a species of flowering plant .",
+        "description": " Gerbera jamesonii was first described by Robert Jameson in 1889 while exploring the Barberton area in the Lowveld region of Mpumalanga Province, South Africa. It was the first species of Gerbera to be the subject of a scientific description, studied by J.D. Hooker in Curtis's Botanical Magazine in 1889.",
+        "img": "https://i.ibb.co/d7VhkMX/p2-removebg-preview.png"
+    },
+    {
+        "id": 2,
+        "name": "Angel wing",
+        "price": 168.00,
+        "shortDes": " Intriguing plant next found itself on the other side of the world",
+        "description": " This intriguing plant next found itself on the other side of the world, as Gentian breeder Takashi Hikage visited from Japan and immediately took a liking to the plant.Takashi-san became No. 1 in Japan thanks to a rich understanding of current needs, whilst also grasping future needs. He expressed interest in testing and marketing these Senecio plants in Japan, where he knew the tactile nature of the plant would be popular.",
+        "img": "https://i.ibb.co/Syq1smX/s1-removebg-preview.png"
+    },
+    {
+        "id": 3,
+        "name": "African Violet",
+        "price": 135.00,
+        "shortDes": " African Violet sit  whilst also grasping future needs whilst also grasping future needs",
+        "description": " plant next found itself on the other side of the world, as Gentian breeder Takashi Hikage visited from Japan and immediately took a liking to the plant.Takashi-san became No. 1 in Japan thanks to a rich understanding of current needs, whilst also grasping future needs. He expressed interest in testing and marketing these Senecio plants in Japan, where he knew the tactile nature of the plant would be popular.",
+        "img": "https://i.ibb.co/HpRTt5W/s2-removebg-preview.png"
+    },
+    {
+        "id": 4,
+        "name": "Aluminum Plant",
+        "price": 199.00,
+        "shortDes": "Aluminum Plant Hikage visited from Japan and immediately took a liking to the plant",
+        "description": " plant next found itself on the other side of the world, as Gentian breeder Takashi Hikage visited from Japan and immediately took a liking to the plant.Takashi-san became No. 1 in Japan thanks to a rich understanding of current needs, whilst also grasping future needs. He expressed interest in testing and marketing these Senecio plants in Japan, where he knew the tactile nature of the plant would be popular.",
+        "img": "https://i.ibb.co/vhXPzdn/s3-removebg-preview.png"
+    },
+    {
+        "id": 5,
+        "name": "Broadleafe",
+        "price": 149.00,
+        "shortDes": " Broadleaf plants  are those with leaves that have a flat",
+        "description": " Broadleaf plants  are those with leaves that have a flat, relatively broad surface.These botanical characteristics distinguish them from plants with needle-like, awl-like, scale-like, or blade-like leaves. This surface is often marked with a network of prominent veins. These botanical characteristics distinguish them from plants with needle-like, awl-like, scale-like, or blade-like leaves.",
+        "img": "https://i.ibb.co/8NrYstF/p9-removebg-preview.png"
+    },
+    {
+        "id": 6,
+        "name": "Chinese Evergreen",
+        "price": 45.00,
+        "shortDes": "Chinese Evergreen are many hybrid varieties of the Chinese evergreen",
+        "description": " There are many hybrid varieties of the Chinese evergreen available which have been cultivated over the last century. This is because of their increasing popularity for indoor growers to use them as ornamental plants for room decoration.These slow growing plant varieties includes, plain green, speckled, blotched and variegated types. One of the most popular and sought after is the silver queen which has leaves covered in silver mainly with some small green patches. The leaves are liner (elongated with parallel sides) or oval shaped which grow at the tip of the stalks. These leaves grow up to 30cm in length and about 5 - 8cm wide. An old mature plant will form a short trunk which can look similar to a yucca or dracaena, in the way the lower leaves come away and leave scared marks",
+        
+        "img": "https://i.ibb.co/9WtcWgF/p6-removebg-preview.png"
+    },
+    {
+        "id": 7,
+        "name": "Beach Spider",
+        "price": 48.00,
+        "shortDes": " The Beach Spider Lily demands a large growing pot, with even new plants.",
+        "description": " The Beach Spider Lily demands a large growing pot, with even new plants requiring a half gallon pot or larger for their first year of life. This bulb-based plant will let you know when it needs a larger pot by breaking the one that it is currently in.  Pleasing this plant species requires plenty of water and sunlight, as well as a unique soil blend. When cared for correctly, the stems of these plants can grow to almost 2 feet (60 cm) long, and the flower will easily add another foot (30cm) of length when it is fully bloomed. The flower produces a strong vanilla scent.",
+        "img": "https://i.ibb.co/x2htzL1/p8-removebg-preview.png"
+    },
+    {
+        "id": 8,
+        "name": "Blushing",
+        "price": 39.00,
+        "shortDes": " This  Blushing bromeliad  is one of the most commonly grown",
+        "description": " This native to Brazil bromeliad  is one of the most commonly grown species indoors from this genus, with the most popular variety being the tricolor. These are also grown outdoors in USDA hardiness zones 10 - 11. Like other bromeliads, in its' natural rainforest habitat it grows on trees (epiphyte) or among other species on the forest floor collecting water within the center cup (vase). The small roots primary purpose is to attach itself to it's growing location to support itself, which is why they live among trees and can be grown indoors on a home made bromeliad tree",
+        "img": "https://i.ibb.co/8dHfYHc/p3-removebg-preview.png"
+    },
+    {
+        "id": 9,
+        "name": "Aliquam lobortis",
+        "price": 155.00,
+        "shortDes": " This Aliquam lobortis  is one of the most commonly grown species indoors",
+        "description": " This Aliquam lobortis  is one of the most commonly grown species indoors from this genus, with the most popular variety being the tricolor. These are also grown outdoors in USDA hardiness zones 10 - 11. Like other bromeliads, in its' natural rainforest habitat it grows on trees (epiphyte) or among other species on the forest floor collecting water within the center cup (vase). The small roots primary purpose is to attach itself to it's growing location to support itself, which is why they live among trees and can be grown indoors on a home made bromeliad primary",
+        "img": "https://i.ibb.co/NS6M6Yz/p5-removebg-preview.png"
+    },
+    {
+        "id": 10,
+        "name": "Auctor gravida",
+        "price": 145.00,
+        "shortDes": " Auctor gravida  is one of the most commonly grown species indoors ",
+        "description": " Auctor gravida  is one of the most commonly grown species indoors from this genus, with the most popular variety being the tricolor. These are also grown outdoors in USDA hardiness zones 10 - 11. Like other bromeliads, in its' natural rainforest habitat it grows on trees (epiphyte) or among other species on the forest floor collecting water within the center cup (vase). The small roots primary purpose is to attach itself to it's growing location to support itself, which is why they live among trees and can be grown indoors on a home made bromeliad the forest floor collecting water within the center cup (vase). The small roots primary purpose",
+        "img": "https://i.ibb.co/fGP2bW7/p4.png"
+    }
+   
+]
