@@ -1,0 +1,23 @@
+.fetcher_title {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+@media (max-width: 360px){
+    .fetcher_title{
+        font-size: 12px !important;
+        text-transform: capitalize;
+    }
+    .fetcher_subTitle{
+        font-size:10px;
+    }
+   
+    .fetcher_img{
+        width: 150px;
+        
+    }
+    .fetcher_main{
+        padding: 20px 0px;
+    }
+}

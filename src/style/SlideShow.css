@@ -4,3 +4,18 @@
     padding:10px 40px;
     margin-top:10px;
 }
+.slid_title{
+    color:#5E5D5D;
+    text-transform:uppercase;
+    font-weight:900;
+    font-size:60px;
+}
+.slid_subTitle{
+    color: #747577;
+}
+@media (max-width: 360px){
+    .slid_title{
+        font-size: 30px;
+       
+    }
+}

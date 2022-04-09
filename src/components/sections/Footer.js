@@ -47,7 +47,7 @@ const Footer = () => {
                 </div>
                 </div>
                 <div className="footer_bottom">
-                    <p className="text-center">&copy;2021 Develop by Jumi Akter</p>
+                    <p className="text-center">&copy;2021 Develop by Milad Siddiquey</p>
                 </div>
             
         

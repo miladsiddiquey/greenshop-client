@@ -46,13 +46,13 @@ const SlideShow = () => {
                             <Carousel.Item key={item.id}>
                                 <div className="row align-items-center carousel-sec ">
 
-                                    <div className="col-md-7 "style={{paddingRight:'90px'}} >
+                                    <div className="col-md-7 " >
                                         <h6 className="text-uppercase">welcome to greenshop</h6>
-                                        <h1 style={{color:'#5E5D5D',textTransform:'uppercase',fontWeight:'900',fontSize:'60px'}}>{item.title}</h1>
-                                        <p style={{color:'#747577'}}>{item.subTitle}</p>
+                                        <h1 className="slid_title">{item.title}</h1>
+                                        <p className="slid_subTitle" >{item.subTitle}</p>
                                         <div className="d-flex align-items-center">
-                                       
-                                        <button type="button" class="btn  shop_now  me-5">Shop Now</button>
+                                    
+                                        <button type="button" class="btn  shop_now  ">Shop Now</button>
                                        
                                         </div>
                                     </div>
